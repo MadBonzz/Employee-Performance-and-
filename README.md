@@ -1,0 +1,1 @@
+## My first full end to end Data Science and Machine Learning project with setting up the virtual environment to deployment of model. The project is about analysis the performance of the employees and would try to predict attrition.
